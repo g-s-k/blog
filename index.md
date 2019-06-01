@@ -10,4 +10,6 @@ i think????
 
 {{ post.date | date_to_string }}
 
+{{ post.excerpt }}
+
 {% endfor %}
