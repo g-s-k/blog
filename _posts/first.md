@@ -1,0 +1,20 @@
+# this is a post
+
+you can tell because it's in the `_posts` directory
+
+## sure hope it looks good
+
+> otherwise i will have to delete it
+
+## code???
+
+```rust
+unsafe {
+    let mut foo = 0xdecaf_c0ffee;
+    *foo = 3;
+}
+```
+
+### smaller heading
+
+- for less important information
