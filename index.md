@@ -8,8 +8,10 @@ i think????
 {% for post in site.posts %}
 ### [{{ post.title }}](/blog{{ post.url }})
 
-{{ post.date | date_to_string }}
+_{{ post.date | date_to_string }}_
 
 {{ post.excerpt }}
+
+---
 
 {% endfor %}
