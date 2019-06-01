@@ -1,3 +1,0 @@
-## this is a blog
-
-i think????
