@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 ## this is a blog
@@ -9,7 +10,7 @@ i think????
 
 ---
 
-### [{{ post.title }}](/blog{{ post.url }})
+### [{{ post.title }}]({{ site.url }}{{ post.url }})
 
 _{{ post.date | date_to_string }}_
 

@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: "george's blog"
+url: "https://georgekaplan.xyz/blog"
+description: "by george, it's a blog"
+
+excerpt_separator: "<!--more-->"
